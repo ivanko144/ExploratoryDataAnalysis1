@@ -18,6 +18,18 @@ one household with a one-minute sampling rate over a period of almost
 4 years. Different electrical quantities and some sub-metering values
 are available.
 
+The descriptions of the 9 variables in the dataset can be taken from
+the <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption">UCI
+web site</a> or from  <a href="https://github.com/rdpeng/ExData_Plotting1">the task assignment</a> 
+
+## Preliminary action
+  Archived dataset should be unpacked into working directory manually.
+
+
+## Loading the data
+  At first all dataset loaded into character format. We wil use only data from the dates 2007-02-01 and 2007-02-02. So this data saved into interim file and then we will work with this interim file (instead the much more bigger original file). 
+
+## Resulting Plots
 
 The four plots constructed according to assignment. 
 
